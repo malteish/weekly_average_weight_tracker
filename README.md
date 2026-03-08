@@ -2,6 +2,8 @@
 
 A single-file weight tracker that visualizes weekly averages from [openScale](https://github.com/oliber/openScale) CSV exports.
 
+**[Try it online](https://malteish.github.io/weekly_average_weight_tracker/)**
+
 ## Features
 
 - Drag & drop or select a CSV file
@@ -15,7 +17,7 @@ A single-file weight tracker that visualizes weekly averages from [openScale](ht
 ## Usage
 
 1. Export your data from openScale as CSV
-2. Open `weight-tracker.html` in a browser
+2. Open `index.html` in a browser
 3. Drop your CSV file onto the upload zone
 
 The CSV must contain `DATE` and `WEIGHT` columns. An example file is included as `openscale-example.csv`.
