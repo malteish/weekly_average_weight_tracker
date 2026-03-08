@@ -1,6 +1,6 @@
 # Gewicht - Wochenübersicht
 
-A single-file weight tracker that visualizes weekly averages from [openScale](https://github.com/oliber/openScale) CSV exports.
+A single-file weight tracker that visualizes weekly averages from [openScale](https://github.com/oliexdev/openScale) CSV exports.
 
 **[Try it online](https://malteish.github.io/weekly_average_weight_tracker/)**
 
